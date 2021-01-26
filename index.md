@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Elgud's Profile Page
 
-You can use the [editor on GitHub](https://github.com/elgud/profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Elgud is something of a pollymath. People who know her, sometimes treat her as a walking encyclopdia, though there are are loads of things she does not know. In fact she is frustrated because it is just not possible to know everything.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Peaceful Antelope](/assets/images/peacefullantelope.jpg)
 
-### Markdown
+## Current Projects
+1. Learn the JAM stack
+2. Learn Django
+3. Creating an online sensory profiling checklist (in collaboration with Olga Bogdashina). There is a [prototype](spcr.aspiedent.net), but this includes just a few senses. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Planned Projects (most will probably not happen)
+- Create an online autism profiling tool for people to use
+- Create an online autism course about the autism profiling tool
+- Find a way of creating a social networking platform that Elgud might actually want to use. This might not be possible.
+- Create and interactive website for testing HTML and CSS in real time, even better if this can save resulting code as a library of solutions.
 
-```markdown
-Syntax highlighted code block
+![Waterfall Rainbow](https://github.com/elgud/profile/blob/gh-pages/assets/images/waterfallrainbow.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+## Likes and Dislikes
 
-- Bulleted
-- List
+### Elgud likes
+- Solving problems
+- Sytematising: understanding complex systems
+- Learning
+- Creating solutions to difficult problems by combining information from different disciplines.
+- Gardening, especially growing fruit and vegetables
+- DIY
+- Nearly all forms out outdoor exercise
 
-1. Numbered
-2. List
+### Elgud dislikes
+- bureaucratic processes
+- Any process that does not make logical sense
+- Loud music
+- Any background music when trying to concentrate
+- Having to be near someone who is wearing perfume or aftershave
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elgud/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![coral](https://github.com/elgud/profile/blob/gh-pages/assets/images/coral2.jpg)## Welcome to GitHub Pages
