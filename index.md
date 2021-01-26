@@ -15,7 +15,7 @@ Elgud is something of a pollymath. People who know her, sometimes treat her as a
 - Find a way of creating a social networking platform that Elgud might actually want to use. This might not be possible.
 - Create and interactive website for testing HTML and CSS in real time, even better if this can save resulting code as a library of solutions.
 
-![Waterfall Rainbow](https://github.com/elgud/profile/blob/gh-pages/assets/images/waterfallrainbow.jpg)
+![Waterfall Rainbow](/assets/images/waterfallrainbow.jpg)
 
 ## Likes and Dislikes
 
@@ -35,4 +35,4 @@ Elgud is something of a pollymath. People who know her, sometimes treat her as a
 - Any background music when trying to concentrate
 - Having to be near someone who is wearing perfume or aftershave
 
-![coral](https://github.com/elgud/profile/blob/gh-pages/assets/images/coral2.jpg)## Welcome to GitHub Pages
+![coral](/assets/images/coral2.jpg)## Welcome to GitHub Pages
