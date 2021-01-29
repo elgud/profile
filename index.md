@@ -7,13 +7,12 @@ Elgud is something of a pollymath. People who know her, sometimes treat her as a
 ## Current Projects
 1. Learn the JAM stack
 2. Learn Django
-3. Creating an online sensory profiling checklist (in collaboration with Olga Bogdashina). There is a [prototype](spcr.aspiedent.net), but this includes just a few senses. 
+3. Creating an online sensory profiling checklist (in collaboration with Olga Bogdashina). There is a [prototype](https://spcr.aspiedent.net), but this includes just a few senses. 
 
 ## Planned Projects (most will probably not happen)
 - Create an online autism profiling tool for people to use
 - Create an online autism course about the autism profiling tool
-- Find a way of creating a social networking platform that Elgud might actually want to use. This might not be possible.
-- Create and interactive website for testing HTML and CSS in real time, even better if this can save resulting code as a library of solutions.
+- Find a way of creating a social media platform that I might actually want to use. This might not be possible.
 
 ![Waterfall Rainbow](/assets/images/waterfallrainbow.jpg)
 
