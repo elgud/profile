@@ -9,7 +9,7 @@ Elgud is something of a pollymath. People who know her, sometimes treat her as a
 2. Learn Django
 3. Creating an online sensory profiling checklist (in collaboration with Olga Bogdashina). There is a [prototype](https://spcr.aspiedent.net), but this includes just a few senses. 
 
-## Planned Projects (most will probably not happen)
+## Planned Projects (may or may not happen)
 - Create an online autism profiling tool for people to use
 - Create an online autism course about the autism profiling tool
 - Find a way of creating a social media platform that I might actually want to use. This might not be possible.
@@ -21,7 +21,7 @@ Elgud is something of a pollymath. People who know her, sometimes treat her as a
 ### Elgud likes
 - Solving problems
 - Sytematising: understanding complex systems
-- Learning
+- Learning new things
 - Creating solutions to difficult problems by combining information from different disciplines.
 - Gardening, especially growing fruit and vegetables
 - DIY
